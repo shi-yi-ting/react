@@ -1,1 +1,0 @@
-import{r as t,H as c}from"./index-CsiuswbD.js";function s(){}const u=t.createContext({add:s,remove:s});function m(n){const r=t.useContext(u),o=t.useRef();return c(e=>{if(e){const a=n?e.querySelector(n):e;r.add(a),o.current=a}else r.remove(o.current)})}export{m as u};

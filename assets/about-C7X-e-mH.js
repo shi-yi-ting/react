@@ -1,1 +1,0 @@
-import{j as r}from"./index-Dr_4phEI.js";import{M as s}from"./markDownBox-No20uCr-.js";const a=()=>r.jsx("div",{className:"container",children:r.jsx(s,{url:"static/file/md/case/DOM/放大镜.md",children:"123"})});export{a as default};

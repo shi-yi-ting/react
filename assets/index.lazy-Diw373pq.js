@@ -1,0 +1,1 @@
+import{c as t,j as e}from"./index-3wvRflVx.js";const i=t("/_app/investment/")({component:n});function n(){return e.jsx("div",{className:"font-itali text-center text-8",children:"investment page"})}export{i as Route};
