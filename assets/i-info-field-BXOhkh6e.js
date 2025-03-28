@@ -1,0 +1,1 @@
+import{j as e,ap as s}from"./index-Bl00IWvP.js";const x=({label:t,value:a,horizontal:i=!1,className:c,labelClass:d,valueClass:n})=>e.jsxs("div",{className:s(i?"flex items-center justify-between":"space-y-4 py-4",c),children:[e.jsx("div",{className:s("text-3.5 text-[#d9d9d9]",d),children:t}),e.jsx("div",{className:s("text-4",n),children:a})]});export{x as I};

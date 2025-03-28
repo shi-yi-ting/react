@@ -1,0 +1,1 @@
+import{c as t,u as s,r as a,j as e}from"./index-Bl00IWvP.js";const r=t("/_app/")({component:c});function c(){const o=s();return a.useEffect(()=>{o.navigate({to:"/home"})},[]),e.jsx("div",{className:"h-128 fcc",children:e.jsx("div",{className:"i-eos-icons-loading size-10"})})}export{r as Route};
